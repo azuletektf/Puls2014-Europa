@@ -1,0 +1,82 @@
+1º Diseño elástico
+2º Diseño Responsive
+
+Responsive Design
+-> No responde a anchos, si no a 
+
+3º Mobile First <- Mejor que Responsive Design 
+ - 1º Se piensa en el diseño para Móviles
+ - Hay que empezar los proyectos pensando en móviles
+
+Ejemplos: 
+ - Instagram -> Fue vendida a facebook
+ - Vine -> Videos (mejor que videos de instagram)
+ - Path -> Solo para móviles (algo muerta)
+
+
+ Mobile -> Retina 
+
+ Imagenes -> DOBLE RESOLUCIÓN 50% Calidad 
+ Retina -> 1px = 4px
+
+
+APLICACIÓN WEB
+ Frontend 	-> html, css, es la parte visible por los usuarios (Diseñador Gráfico - Programador Front-End)
+
+ Backend 	-> es lo que corre en el servidor y el usuario no ve
+
+ Bases de datos	-> Sistema estructurado de guardado de datos.
+
+
+NO ESPECIALIZARSE EN 1 COSA! -> Aprender el máximo de cosas! PROGRAMADOR full stack programmer
+
+- Mysql - Postgres - MongoDB
+
+- Django y Python	- Express.js y Node.js, Socket.io
+
+- Html5 y Jquery, Javascript, 
+
+- CSS3 y Stylus
+
+
+COMO EMPEZAR UN PROYECTO: 
+
+1º MOKUP 
+2º DISEÑO
+
+
+Github / SVN (Subversion) / TFS / Mercurial
+
+GITHUB (Para copias de seguridad)
+
+Git: Control de versiones
+Github: Web app consolida el control de versiones
+	1. Red social de programadores
+	2. Web / Apps
+	3. Mucho más fácil 
+
+=======================
+
+Repositorio de código
+	1. Múltiples versiones del mismo código
+	2. Cambios DELTA 
+		Base de datos atómica del código: solo se envian los datos que se modificaron
+	3. Historial de cada archivo
+	4. Múltiples personas sobre el mismo archivo
+	5. CULPA AL CULPABLE
+	6. Ramas (branches)
+		* master (github.com) REPO PRINCIPAL
+		* master (disco duro) REPO LOCAL
+			* master
+				-- MERGE (fusionar la rama experimento con la rama master)
+			* experimento LOCAL
+
+		* master (servidor.com) REPO PRODUCCIÓN
+
+
+
+
+
+
+
+
