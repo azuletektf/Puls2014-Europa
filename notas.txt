@@ -74,8 +74,10 @@ Repositorio de código
 		* master (servidor.com) REPO PRODUCCIÓN
 
 
+========================
 
-
+Las 3 Resoluciones para las que diseñamos: 
+Mobile - Labtop - Desktop
 
 
 
