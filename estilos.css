@@ -71,6 +71,7 @@ header #logo img
 nav
 {
 	background: #80BCA3;
+	box-shadow: rgba(0,0,0,0.5) 2px 2px 10px;
 	padding: 0 0.5em;
 	position: relative;
 }
@@ -166,7 +167,7 @@ nav ul li a
 {
 	background: white;
 	border-radius: 0 0 0.5em 0.5em;
-	left: 5%; 
+	left: 4%; 
 	margin-top: 3px;
 	padding: 0.2em 0.5em;
 	position: absolute;
